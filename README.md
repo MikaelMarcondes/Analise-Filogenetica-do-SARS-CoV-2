@@ -9,4 +9,6 @@ Este é um tutorial visando a obtenção de árvores filogenéticas a partir de 
   7. Descarregue o arquivo ["paup4a166_ubuntu64.gz"](http://phylosolutions.com/paup-test/) para seu computador.
   8. Abra uma nova janela do Terminal (Ctrl+Alt+T), digite "cd 'caminho para onde o arquivo PAUP* 4 foi descarregado'" e dê "Enter". Digite "sudo chmod +x ./paup4a166_ubuntu64.gz", dê "Enter" e, se necessário, entre com a senha e dê "Enter" novamente.
 
-O resultado final é um ![círculo filogenético](https://raw.githubusercontent.com/MikaelMarcondes/Analise-Filogenetica-do-SARS-CoV-2/master/circ_phyl.png).
+O resultado final é um círculo filogenético:
+
+![círculo filogenético](https://raw.githubusercontent.com/MikaelMarcondes/Analise-Filogenetica-do-SARS-CoV-2/master/circ_phyl.png).
