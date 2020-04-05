@@ -1,7 +1,7 @@
 Este é um tutorial visando a obtenção de árvores filogenéticas a partir de dados genômicos de SARS-CoV-2.
 
-  1. Acesse https://raw.githubusercontent.com/MikaelMarcondes/covid-19/master/dataset.csv. No campo de busca do Ubuntu, digite "gedit" e dê "Enter". Copie as sequências e salve-as como "dataset.csv";
-  2. Acesse https://mafft.cbrc.jp/alignment/software/linux.html e descarregue o arquivo "mafft_7.450-1_amd64.deb" para seu computador. Você vai precisar ter privilégios de acesso;
+  1. Acesse os dados genômicos do Link[SARS-CoV-2](https://raw.githubusercontent.com/MikaelMarcondes/covid-19/master/dataset.csv). No campo de busca do Ubuntu, digite "gedit" e dê "Enter". Copie as sequências e salve-as como "dataset.csv";
+  2. Descarregue o arquivo ["mafft_7.450-1_amd64.deb"](https://mafft.cbrc.jp/alignment/software/linux.html) para seu computador. Você vai precisar ter privilégios de acesso;
   3. Abra uma nova janela do Terminal (Ctrl+Alt+T), digite "sudo su", entre com a senha e dê "Enter".
   4. Digite "cd 'caminho para onde o arquivo MAFFT foi descarregado'" e dê "Enter";
   5. Digite "dpkg -i mafft_7.450-1_amd64.deb" e dê "Enter". Espere a instalação ser concluída;
