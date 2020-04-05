@@ -8,3 +8,5 @@ Este é um tutorial visando a obtenção de árvores filogenéticas a partir de 
   6. Digite "mafft" para o programa de alinhamento múltiplo de sequências começar a rodar. Dê o caminho do arquivo "dataset" como "input file". Escolha um caminho onde salvar os resultados do alinhamento de sequências. Escolha o formato "FASTA" com "ordem de entrada" (Opção X). Escolha o método "FFT-NS-2 (default)" para realização do alinhamento. Não digite nada nos parâmetros-extra, dê "Enter" e espere o alinhamento terminar.;
   7. Descarregue o arquivo ["paup4a166_ubuntu64.gz"](http://phylosolutions.com/paup-test/) para seu computador.
   8. Abra uma nova janela do Terminal (Ctrl+Alt+T), digite "cd 'caminho para onde o arquivo PAUP* 4 foi descarregado'" e dê "Enter". Digite "sudo chmod +x ./paup4a166_ubuntu64.gz", dê "Enter" e, se necessário, entre com a senha e dê "Enter" novamente.
+
+O resultado final é um ![círculo filogenético](https://raw.githubusercontent.com/MikaelMarcondes/Analise-Filogenetica-do-SARS-CoV-2/master/circ_phyl.png).
